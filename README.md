@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Leandroooh/stats-preview?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Leandroooh/stats-preview?style=for-the-badge)
 
-<img src="#" alt="final-result">
+<img src="https://i.imgur.com/UyRHmdq.png" alt="final-result">
 
 > Project created based on the challenge of <a href="http://frontendmentor.io/">FrontEnd Mentor</a>.
 
